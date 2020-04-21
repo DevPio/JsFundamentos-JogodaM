@@ -6,7 +6,7 @@ class jogoDaMemoria{
         this.herois = [
             {img:'./imagens/batman.png',nome:'batman'},
             {img:'./imagens/ciclop.png',nome:'ciclop'},
-            {img:'./imagenss/deadpool.png',nome:'deadpool'},
+            {img:'./imagens/deadpool.png',nome:'deadpool'},
             {img:'./imagens/mulhermaravilha.png',nome:'mulhermaravilha'},
             
 
