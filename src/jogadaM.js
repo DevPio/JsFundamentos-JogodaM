@@ -4,16 +4,16 @@ class jogoDaMemoria{
         this.tela = tela,
         this.util = util
         this.herois = [
-            {img:'batman.png',nome:'batman'},
-            {img:'imagens/ciclop.png',nome:'ciclop'},
-            {img:'imagens/deadpool.png',nome:'deadpool'},
-            {img:'imagens/mulhermaravilha.png',nome:'mulhermaravilha'},
+            {img:'./imagens/batman.png',nome:'batman'},
+            {img:'./imagens/ciclop.png',nome:'ciclop'},
+            {img:'./imagenss/deadpool.png',nome:'deadpool'},
+            {img:'./imagens/mulhermaravilha.png',nome:'mulhermaravilha'},
             
 
 
 
         ]
-        this.padrao = 'imagens/default.png'
+        this.padrao = './imagens/default.png'
         this.econd = []
         this.herosS = []
 
